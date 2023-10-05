@@ -1,0 +1,11 @@
+img {
+
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    height: 100%;
+    width: 200px;
+    max-width: 200px;
+    min-width: 100px;
+    
+}
