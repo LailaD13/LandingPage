@@ -1,11 +1,81 @@
 img {
-
-    border-style: solid;
-    border-radius: 10px;
-    border-color: black;
+    display: flex;
+    justify-content: center;
     height: 100%;
     width: 200px;
     max-width: 200px;
     min-width: 100px;
-    
+
 }
+
+
+h1 {
+
+    text-align: center;
+    color:tomato;
+}
+
+h2 {
+
+    text-align: center;
+    color: chocolate;
+}
+
+p {
+
+    text-align: center;
+}
+
+h3 {
+
+    text-align: center;
+}
+
+li {
+
+    text-align: center;
+}
+
+body {
+
+    background-color: lightgrey;
+}
+
+
+
+td,th {
+
+    border-style: solid ;
+    border-color:sienna;
+}
+
+table {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+   
+}
+
+.Vídeo {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.divimagem{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.fotominha{
+    padding-left: 43%;
+}
+.fotocursos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
